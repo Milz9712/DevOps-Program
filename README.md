@@ -32,3 +32,6 @@ Git & GitHub
 - Editor: Visual Studio Code
 - Version Control: Git
 - Remote Repository: GitHub
+## Learning Approach
+
+This program focuses on hands-on practice, version control, automation, and real-world DevOps workflows.
