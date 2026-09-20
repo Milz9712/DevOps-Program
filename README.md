@@ -17,14 +17,32 @@ A structured hands-on DevOps learning program covering:
 ## Current Progress
 
 ### Completed
+
 - Linux fundamentals
 - Bash fundamentals
 - Bash scripting
-- Git fundamentals setup
+- Git fundamentals
 - GitHub repository setup
+- Python fundamentals
+- Python functions, loops, lists, dictionaries
+- JSON and file handling
+- Exception handling
+- Environment variables
+- Command-line arguments
+- Linux command execution with `subprocess`
+- Python virtual environments
+- `pip` and `requirements.txt`
+- REST API requests with `requests`
+- API error handling and response-time monitoring
+- Python `unittest`
+- Logging
+- Basic DevOps automation
 
 ### Current Stage
-Git & GitHub
+Python DevOps automation and testing
+
+### Next Stage
+Networking fundamentals
 
 ## Environment
 

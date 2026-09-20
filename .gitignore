@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+system_health_report.txt
+api_health_report.json
+server_status.txt
